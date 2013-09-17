@@ -1,0 +1,5 @@
+name: renderedTextBug
+description: Printed an empty string in dartium, throws an exception in dart2js
+
+dependencies:
+  browser: any
